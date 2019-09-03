@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1567522322 source:c:\users\a630514\desktop\utn\tp1-calculadora\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1567520096 c:\users\a630514\desktop\utn\tp1-calculadora\tp_laboratorio_1\misfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1567519635 source:c:\users\a630514\desktop\utn\tp1-calculadora\tp_laboratorio_1\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
